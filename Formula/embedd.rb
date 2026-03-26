@@ -1,8 +1,8 @@
 class Embedd < Formula
   desc "Local embedding server for Roo Code codebase indexing on macOS"
   homepage "https://github.com/jasencarroll/embedd"
-  url "https://github.com/jasencarroll/embedd/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d9e45756cdf8804b8422fe59ab8af74e43c655bfa992618f9fc78d3eca1ec564"
+  url "https://github.com/jasencarroll/embedd/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a4867beabbdb81301c3e7a2ed98b277bab9f7a846b884bbd7f73d570216283e3"
   license "MIT"
 
   depends_on "llama.cpp"
